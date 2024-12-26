@@ -1,0 +1,9 @@
+
+
+server:
+  port: 9191
+spring:
+ kafka:
+   procedure:
+      bootstrap-servers: localhost:90
+
